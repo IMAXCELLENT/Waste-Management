@@ -1,0 +1,4 @@
+complaint_id,citizen_name,area_code,description,status,timestamp,resolution_message
+CM001,Lakshya ,1004,Dustbin is smelly,Resolved,2025-04-30 18:06:56,It is fixed now
+CM002,Shivansh,1,Dustinbin bad,Resolved,2025-04-30 18:16:22,It is not now
+CM003,Vaidik,20102,Poor service,Resolved,2025-04-30 18:26:26,Sorry for that
